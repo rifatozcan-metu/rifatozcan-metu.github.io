@@ -1,8 +1,7 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "rifatozcan-metu.github.io
-"
+url: "rifatozcan-metu.github.io"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
